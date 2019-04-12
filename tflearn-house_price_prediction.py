@@ -1,10 +1,3 @@
-#
-#   house_price_prediction.py
-#
-#   This is a very simple prediction of house prices based on house size, implemented
-#   in Tensorflow. This code is part of Pluralsight's course "Tensorflow: Getting Started"
-#
-
 import tensorflow as tf
 import numpy as np
 import math
